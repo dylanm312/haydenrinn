@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Title
-category: Name-Of-The-CTF
+title: Hello World!
+category: General
 ---
 
 # Description
