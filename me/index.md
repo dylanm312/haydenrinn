@@ -9,5 +9,6 @@ it up.
 
 <br>
 
-This site is powered by [Jekyll](jekyllrb.com) and the beautiful 
-coder-minimalist theme was taken from [Corb3nik.github.io](corb3nik.github.io).
+This site is powered by [Jekyll](https://jekyllrb.com) and the beautiful 
+coder-minimalist theme was taken from [Corb3nik.github.io](https://corb3nik.github.io).
+The source code for this site is available on [GitHub](https://github.com/hrinn/haydenrinn).
