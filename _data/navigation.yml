@@ -1,0 +1,11 @@
+- title: about
+  url: /me
+
+- title: github
+  url: https://github.com/hrinn
+
+- title: resume
+  url: /assets/resume.pdf
+
+- title: pgp-key
+  url: /assets/hayden.asc
