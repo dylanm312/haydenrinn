@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World!
-category: General
+# category: General
 ---
 
 # Description
