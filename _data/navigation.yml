@@ -8,4 +8,4 @@
   url: https://github.com/hrinn
 
 - title: pgp-key
-  url: /assets/hayden.asc
+  url: https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x99bb2801c6bb15a9fe2bd44b3949e9a8861a2484
