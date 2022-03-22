@@ -1,5 +1,5 @@
 # Blog settings
-permalink: blog/:categories/:title
+permalink: /haydenrinn/blog/:categories/:title
 
 
 # My variables
