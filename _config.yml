@@ -28,5 +28,3 @@ kramdown:
 # Plugins
 plugins:
   - jemoji
-
-theme: jekyll-theme-minimal
